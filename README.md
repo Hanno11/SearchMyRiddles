@@ -1,4 +1,4 @@
-# SearchMyRiddles in Lichess
+# SearchMyRiddles in LiChess
 A little tool for LiChess users.
 
 Are you playing chess on Lichess?
